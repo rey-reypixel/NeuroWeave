@@ -1,0 +1,106 @@
+[
+    {
+        "timestamp": "2026-04-29T04:28:18.789390",
+        "topic": "Softmax",
+        "confusion_score": 8,
+        "prompt": "Why is Softmax used for probability?"
+    },
+    {
+        "timestamp": "2026-04-29T04:30:24.161876",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "can you explain the value matrix calculation for the text i entered"
+    },
+    {
+        "timestamp": "2026-04-29T04:31:05.530605",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "QKV"
+    },
+    {
+        "timestamp": "2026-04-29T04:31:17.101118",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "equation pls"
+    },
+    {
+        "timestamp": "2026-04-29T04:31:37.669737",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "qkv equation"
+    },
+    {
+        "timestamp": "2026-04-29T04:36:09.363511",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "i honesly dont get anything"
+    },
+    {
+        "timestamp": "2026-04-29T04:36:15.691468",
+        "topic": "Softmax",
+        "confusion_score": 8,
+        "prompt": "what is even a tensor"
+    },
+    {
+        "timestamp": "2026-04-29T04:36:23.905719",
+        "topic": "QKV Matrices",
+        "confusion_score": 8,
+        "prompt": "why is this so hard"
+    },
+    {
+        "timestamp": "2026-04-29T04:50:57.591791",
+        "topic": "QKV Matrices",
+        "confusion_score": 6,
+        "mastery_score": 8,
+        "prompt": "What are the squares in the middle"
+    },
+    {
+        "timestamp": "2026-04-29T04:51:19.365912",
+        "topic": "Softmax",
+        "confusion_score": 0,
+        "mastery_score": 8,
+        "prompt": "How does the dot product scaling by $\\sqrt{d_k}$ prevent gradient vanishing in the Softmax layer?"
+    },
+    {
+        "timestamp": "2026-04-29T04:52:34.873832",
+        "topic": "QKV Matrices",
+        "confusion_score": 0,
+        "mastery_score": 6,
+        "prompt": "what are these squares on screen"
+    },
+    {
+        "timestamp": "2026-04-29T04:53:03.605148",
+        "topic": "Softmax",
+        "confusion_score": 8,
+        "mastery_score": 5,
+        "prompt": "softmax, whats the value of x here"
+    },
+    {
+        "timestamp": "2026-04-29T04:54:52.803368",
+        "topic": "Positional Encoding",
+        "confusion_score": 0,
+        "mastery_score": 6,
+        "prompt": "what does the numbers in positional enoding matrix mean"
+    },
+    {
+        "timestamp": "2026-04-29T05:12:13.295313",
+        "topic": "Softmax",
+        "confusion_score": 6,
+        "mastery_score": 7,
+        "prompt": "Explain how the scaling factor $\\frac{1}{\\sqrt{d_k}}$ prevents the Softmax gradients from saturating."
+    },
+    {
+        "timestamp": "2026-04-29T05:12:30.072686",
+        "topic": "Positional Encoding",
+        "confusion_score": 6,
+        "mastery_score": 7,
+        "prompt": "Can we use some other factor"
+    },
+    {
+        "timestamp": "2026-04-29T05:13:00.480633",
+        "topic": "Softmax",
+        "confusion_score": 3,
+        "mastery_score": 6,
+        "prompt": "can  we use any other factor than 1/root Dk for Softmax"
+    }
+]
